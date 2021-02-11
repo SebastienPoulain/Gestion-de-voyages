@@ -1,0 +1,38 @@
+
+header{
+  height:10vh;
+  background-color: #07245c;
+}
+
+.container{
+    margin-top: 8vh;
+}
+
+#btAnnuler{
+    height: 30px;
+    width: 40%;
+    float: right;
+    text-align: center;
+    line-height: 10px;
+}
+
+#btCreateAccount{
+    height: 30px;
+    width: 40%;
+    float: left;
+    text-align: center;
+    line-height: 10px;
+}
+
+#lbPassword{
+    text-align: left;
+}
+
+#lbUsername{
+    text-align: left;
+}
+
+#alert_create_acc{
+    visibility: hidden;
+
+}

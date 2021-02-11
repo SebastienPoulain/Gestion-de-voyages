@@ -1,0 +1,90 @@
+
+
+body{
+  width: 100%;
+}
+
+.stat{
+  width: 35vw;
+  height: 29.8vh;
+	display:inline-block;
+  background: blue;
+}
+
+.tableauBord{
+  width: 100%;
+  margin-top: 10vh;
+  margin-left: 15vh;
+  margin-right: 15vh;
+  border-radius: 6px;
+  background-color: mintcream;
+}
+
+#myProgress {
+  width: 100%;
+  background-color: grey;
+}
+
+#myBar {
+  height: 30px;
+  background-color: cornflowerblue;
+}
+
+.tabStat{
+ width: 100%;
+ border: solid black;
+}
+
+.divTab
+{
+ background-color: white;
+ width: 100%;
+ margin: 15%;
+}
+
+.divTab2
+{
+ height: 300px;
+ width: 100%;
+ background-color: white;
+ margin: auto;
+ margin-bottom: 20px;
+}
+
+.divBandeGraphe
+{
+height: 200px;
+background-color: #009688;
+margin: 10px;
+}
+
+.tabGrap{
+   border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+
+}
+
+#btRetour{
+  position: static !important;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+
+.loader {
+position : fixed;
+z-index: 9999;
+background : url('icon-loader.gif') 50% 50% no-repeat;
+top : 0px;
+left : 0px;
+height : 100%;
+width : 100%;
+cursor : wait;
+}

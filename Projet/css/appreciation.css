@@ -1,0 +1,16 @@
+.midSectAppreciation{
+    margin-top: 15vh;
+    border-radius: 60px;
+    margin-left: 15vw;
+    background-image: linear-gradient(110deg, #17478A 30%, #07245c);
+}
+
+.centerText{
+    text-align: center;
+}
+
+#btRetour{
+    transform:translate(4vw,5.5vh);
+    position: absolute;
+  }
+ 

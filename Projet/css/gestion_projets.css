@@ -1,0 +1,17 @@
+.BTacccept,.BTview,.BTviewactivite,.BTCopieCOLI,.BTviewParticipant{
+  margin-right: 1vw;
+  
+}
+
+.midSection{
+  margin-top: 5vh;
+  margin-left: 15vw;
+  width: 70vw;
+  height: 85vh;
+}
+
+#btRetour{
+  transform:translate(4vw,5.5vh);
+  position: absolute;
+}
+

@@ -1,0 +1,140 @@
+.midSection {
+  margin-top: 15vh;
+  padding-bottom: 4vh;
+  color: white !important;
+  border-radius: 60px;
+  background-image: linear-gradient(110deg, #17478A 30%, #07245c);
+}
+
+#btRetour {
+  position: absolute;
+  transform: translate(4vw, 5.5vh);
+}
+
+.menu {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  overflow-y: scroll;
+  width: 15vw;
+  height: 86%;
+  z-index: 1;
+  background-image: linear-gradient(110deg, #17478A 30%, #07245c);
+}
+
+#hello {
+  color: white !important;
+}
+
+.text-blanc {
+  color: white !important;
+}
+
+.list-group-item {
+  background-color: #007bff !important;
+}
+
+.card {
+  background-image: linear-gradient(110deg, #17478A 30%, #07245c);
+}
+
+.ui-state-active {
+  border: 5px solid yellow;
+}
+
+.Controloptions {
+  padding: 30px;
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  background: #fff;
+  font-size: 15px;
+}
+
+p, label {
+  color: black !important;
+}
+
+.btn {
+  background-color: DodgerBlue !important;
+}
+
+a:link {
+  text-decoration: none !important;
+}
+
+.btn:hover {
+  background-color: RoyalBlue;
+}
+
+#rangeVal {
+  color: black !important;
+}
+
+.drag {
+  cursor: -webkit-grab;
+  cursor: grab;
+  color: white;
+  background-color: #07245c !important;
+  max-width: 15vw;
+}
+
+#options {
+  width: 100%;
+  padding: 8px;
+  text-align: center;
+  color: #ffffff;
+  border: none;
+  border-radius: 3px;
+  background-color: #007bff;
+}
+
+#optionBorder {
+  margin-bottom: 8px;
+  padding: 8px;
+  border: 1px solid rgb(0, 0, 0);
+  background-color: #e2e2e2;
+}
+
+.formdyn_content {
+  min-height: 20vh;
+}
+
+.white{
+  color: white !important;
+}
+
+.form-group{
+  background-color: #0052cc;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.text-muted{
+  color: #d9d9d9 !important;
+}
+
+.formdyn_content > div, .formdyn_content > div > label, .formdyn_content > div > small{
+  cursor: -webkit-n-resize;
+  cursor: n-resize;
+}
+
+.pouretu, .pourprof{
+  float: right;
+  margin-left: 1vw;
+}
+
+.close{
+  margin-left: 1vw;
+}
+
+.req{
+  display: inline-block;
+}
+.form{
+  color:white !important;
+}
+
+.row{
+  margin-left: 0;
+  margin-right: 0;
+}

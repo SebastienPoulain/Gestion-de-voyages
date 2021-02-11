@@ -1,0 +1,337 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head id="ctl00_head" lang="fr"><title>
+	Omnivox - Fin de la session
+</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+	<script type="text/javascript">
+		var _valSes_Actif = 'N';
+	</script>
+
+	<script src="/Content/Partage/Javascript/Lib_General.js" type="text/javascript"></script>
+
+	<link type='text/css' href='/intr/ui/IntraflexCss.aspx?Type=normalnonauthentifie&amp;C=TRV&amp;E=P&amp;L=FRA&amp;Ref=20181217141707' rel='stylesheet'><link type='text/css' href='/intr/Content/Partage/CSS/CssGlobal.min.css?C=TRV&amp;E=P&amp;L=FRA&amp;Ref=20181217141707' rel='stylesheet'><meta name="title" content="Omnivox - Cégep de Trois-Rivières"><meta name="description" content="Omnivox vous simplifie la vie en intégrant des outils efficaces de communication."><meta name="keywords" content="Omnivox, Cégep de Trois-Rivières, Léa, l'environnement Profs-Étudiants, Mio"><script src='/Content/Partage/JavaScript/JQuery/jquery-current.js' type='text/javascript'></script> <!-- Pour évité que JQuery brise à trop d'endroits on va laisser les master pages autre que intraflex_menu avec les scripts en haut -->
+
+    <link rel="stylesheet" type="text/css" href="/content/partage/css/header-v3-min.css" /><link rel="stylesheet" type="text/css" href="/content/partage/css/header-v3-intraflex.css" /> <!--Correctifs de style pour intraflex seulement-->
+	<style type="text/css">
+		.imgEnvString {
+			position: absolute;
+			top: 0;
+			left: 0;
+			z-index: 500;
+		}
+
+        
+        
+        body header #headerFixedBar nav a.headerNavbarLink,
+        body header #headerFixedBar nav #headerNavbarProfileUserName,
+        body header #headerFixedBar nav #headerNavbarProfile #parent-photo {
+            display: none;
+        }
+	</style>
+</head>
+<body id="ctl00_body">
+	
+
+
+	<form name="aspnetForm" method="post" action="./Quitter.aspx" id="aspnetForm" class="intrFrmNonAuthentifie">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="yj5tnqlw4fcGIZOwjzB0uYsLHrdBZF6mRflk/5OMccn18V3M5IiuIS/uCz+PR66tZGnruPRGGUHCZb/HN9r6Zm1GxKOL5U5SONfiWQuXBoMpgcA6CqYqskqHDHxc/5xRa0v5Snp8biw3xsgErS1lhXpfiJnsJ050I3gXaPiOuC7WlY3K44uVC4WxBl8SVCyflsbmo5n6Z5nfpj30Zqmr5/g/a/QMUwDOudPsmgBGxuTcqtsNzjFZ4MksURQ9NYCwRdksSvNmKWcMN9b5mcgUlBLFe4VOVmCjPVcno1jwvhsWT1RLfJhcvprL3tcB1LV0xqZnucnKhlscSVT/qcmUHI3WYqdG138Rds9Ic0Bv/rQnascwPOWC9jxVkQStOvI8gQiuV3mcFMWKA3yxwBh4T55rta5Q3LB8V3nt/8VNrEyDUQi1JmvTrJqwP2SnJxMjN4B0J564e46JZ8EiSRhCCFJ6E2sYtXsARy63h0WTlugMawY6YwImWq19LYjyAOcPiRRGI0/SqnWaZY+LsmaLV6nUcV2xpVeGKM9l/hrQRDxDMHg8vqAEu5uqQkrHRsOCU8nz5XiDbgsVuotVZ2Scs+/EEUeYRV55I7ZqUsX77rzE60hpPa/H99KI3NZMX7V6LwV7vzdNMedw+BV28Lcp4HXDlutiz7hdfzIsXbGlrO8f3WtYZD1gONrm4V0gZbniPs81FWkuHHZPJLnpwH8fhrXtraNkVlnrsMG6VB4HErE5R1yDeapYswDHeJJ4KE4QSgWUAo1bJ/sBIsihzS8JiK/wFfK2kZUxjsMgcTteMxYZ7HYk2HLu4ToN5L5gXNp5zcxg6z1X9bQDJN5zHbJCkZIfAj5xpWsXqH1EH/7hQIklGTR0T41aWfBcb+aFE8gepENOtI6neBsKcI6oH3dvmjtPeLDcozwCagGw9em9oTNslA1wQeBYT0gKIP4zODjs2RuKit8owr379ocmQ9NYt43+N98M+tm55mRmj24nl9VzaoXi4tE3FCdX23AUUztFVEdK64WDDCGVAt2cP6XB8yhO2/NrJYh/6FcblY4FGfAo6fs6J5IAkzwYnPk=" />
+
+
+<script src="/intr/ScriptResource.axd?d=uHIkleVeDJcJ8gtYuhPpIT9prNOmCIgP2Xz5PGjuutl8bIB6Y2xZ31nZ7comypST21ykN-yNOaCXcuyKcAsyThdjVuhjlrPH6GKUza4iGBBYuvqDAx6bAmCnSNFTTvuMt7L1Bg2&amp;t=545ba255" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1EBE3272" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+
+		
+
+		<script type="text/javascript">
+var maxWidth = 1280;
+function getWidth() {
+ var myWidth = 0, myHeight = 0;
+ if( typeof( window.innerWidth ) == 'number' ) {
+ myWidth = window.innerWidth;
+ myHeight = window.innerHeight;
+ } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+ myWidth = document.documentElement.clientWidth;
+ myHeight = document.documentElement.clientHeight;
+ } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+ myWidth = document.body.clientWidth;
+ myHeight = document.body.clientHeight;
+ } 
+ return myWidth;
+ }
+function setMaxWidth()
+{
+ var w = getWidth();
+ var d = document.getElementById("MasterWrapper");
+ 
+ if(d === null) {
+return;
+ }
+ if(w > maxWidth) {
+ d.style.width = maxWidth + "px";
+ d.className = "wrapperFixed";
+ }
+ else
+ {
+ d.style.width = "100" + "%";
+ d.className = "wrapper";
+ }
+ 
+ 
+}
+ document.addEventListener("DOMContentLoaded", function () {
+ setMaxWidth();
+ $(window).resize(function () { setMaxWidth(); });
+ });
+</script><style type="text/css"/>
+#aspnetForm{height:100%}
+.footerPart{vertical-align:bottom}
+#loginWrapBox{width:700px;margin:0 auto;padding:20px}
+.contenuIntraflex{width:100%}
+.sMasterWrapper{height:30px}
+</style><div class="ovx10_rel"><div id="ovx10_head"><div id="ovx10_head_draw"><div id="ovx10_head_grass"></div></div></div><div id="ovx10_head_sub"></div><div class="lienRetourGlobal" style="display:none;"><table border="0" cellpadding="0" cellspacing="0"><tr><td class="Entete_LiensMenu"><a target="_top" href="/intr/?C=TRV&E=P&L=FRA&Ref=20181217141707" class=''  ><img src='/images/General/intrRetourPetit.gif' border='0' title="Ma page d'accueil" /></a></td><td class="Entete_LiensMenu" style="padding-left: 5px;"><a target="_top" href="/intr/?C=TRV&E=P&L=FRA&Ref=20181217141707" class=''  >Ma page d'accueil</a></td></tr></table></div><style type="text/css">
+.lienRetourGlobal{width:1266px; margin-left: auto; margin-right: auto; margin-top:5px; height:0px;}
+.lienRetourGlobal a{font-weight:bold;color: #444444;}
+</style></div><div class="sMasterWrapper"></div><table width="100%" cellpadding="0" cellspacing="0" border="0" class="wrapper" id="MasterWrapper"><tr><td valign="top"><table class="deloger" border="0" cellspacing="0" cellpadding="3"><tr><td nowrap="nowrap" style="font-size:13px;font-weight:bold; padding-left:15px;" ><img src="/images/General/intrRetourPetit.gif" alt="" style="padding-right:3px; float:left;" /><a target="_top" href="/intr/?C=TRV&E=P&L=FRA&Ref=20181217141707" class=''  >Retour à l'identification</a></td></tr></table><div class="sMasterWrapper"></div>
+
+		<table align="center" cellpadding="0" cellspacing="0" border="0" class="contenuIntraflex">
+			<tr>
+				<td valign="top" style="text-align: left;" class="contenu_BoxLogin">
+					<div id="loginWrapBox">
+						
+<style>
+	iframe
+	{
+		display: none;
+		height : 0px;
+		width: 0px;
+	}
+	
+	#tableMsgLogout {
+		width: 600px;
+	}
+
+    h1.TitreCssGlobal
+    {
+        margin-bottom:15px;
+    }
+
+</style>
+
+<script type="text/javascript">
+
+	
+	if (window.top.location.origin && window.top.location.href.toLowerCase().indexOf(window.top.location.origin.toLowerCase() + '/mobl') === 0) {
+		
+		$('document').ready(function() {
+			setTimeout(function() {
+				window.top.location = '/Mobl';
+			}, 100);
+		});
+	} else {
+		
+		var userAgentFramePrincipalMobile = navigator.userAgent.indexOf("OVX") === 0;
+		var userAgentiFrameMobile = navigator.userAgent.indexOf("OVX") === navigator.userAgent.length - "OVX".length;
+		if (!userAgentFramePrincipalMobile && !userAgentiFrameMobile) {
+
+			
+			if (window.top.location != window.location && window.top.location.href.indexOf('/intr/UnitTest') < 0 && true)
+				window.top.location = window.location;
+		} else {
+			
+			window.top.location = "/intr/Module/Identification/Login/Mobile/LoginMobile.aspx";
+		}
+	}
+
+</script>
+
+	
+	<table id="tableMsgLogout" cellpadding="2" cellspacing="0" border="0" align="center">
+	<tr>
+		<td class="headerMsgLogout">
+			<h1 class=TitreCssGlobal>Votre session à Omnivox est terminée</h1>
+		</td>
+	</tr>
+	<tr>
+		<td class="tdMsgLogout" style="font-size: 12px;">
+
+			Toutes les informations transmises ont été encodées pour votre sécurité.
+			<br />
+			<br />
+	            
+			Pour protéger la confidentialité des informations reçues, assurez-vous de <b><a href="javascript:OpenCentre('/intr/Module/Information/MemoireCache.aspx', 'Intr_Information', 'fullscreen=no,toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,scrollbars=yes', 700, 500, false);">vider votre mémoire cache</a></b> et de <b>fermer votre navigateur</b>.
+			<br />
+			<br />
+			
+			<br />
+	           
+			
+				<center>
+					<a id="ctl00_cntFormulaire_lnkRetour" title="Retour à l&#39;identification" title="Retour à l&#39;identification" href="/intr/?C=TRV&amp;E=P&amp;L=FRA&amp;Ref=20181217141707" target="_top" style="font-size: 13px; font-weight: bold">Retour à l'identification</a>					
+						<br />
+						<br />
+						<a id="ctl00_cntFormulaire_lnkRetourGeneral" title="Retour au site général du Cégep de Trois-Rivières" title="Retour au site général du Cégep de Trois-Rivières" href="http://www.cegeptr.qc.ca" target="_top" style="font-size: 13px; font-weight: bold">Retour au site général du Cégep de Trois-Rivières</a>
+				</center>
+			
+		</td>
+	</tr>
+	
+	</table>
+
+    <iframe src="https://cegeptr-estd.omnivox.ca/estd/Term/?prvintr=endsession&C=TRV&E=P&L=FRA&Ref=20181217141707" id="ctl00_cntFormulaire_ifQuitterOvxEstd" class="ifQuitter" height="0" width="0"></iframe><iframe src="https://cegeptr-empl.omnivox.ca/empl/Term/?prvintr=endsession&C=TRV&E=P&L=FRA&Ref=20181217141707" id="ctl00_cntFormulaire_ifQuitterOvxEmpl" class="ifQuitter" height="0" width="0"></iframe><iframe src="https://www-trv-lea.omnivox.ca/cvir/SupprimerCookies.aspx?C=TRV&E=P&L=FRA&Ref=20181217141707" id="ctl00_cntFormulaire_ifQuitterClasseVirtuelle" class="ifQuitter" height="0" width="0"></iframe><iframe src="https://cegeptr-estd.omnivox.ca/estd/net/infosgenerales/SupprimerCookies.aspx?C=TRV&E=P&L=FRA&Ref=20181217141707" id="ctl00_cntFormulaire_ifQuitterEstd" class="ifQuitter" height="0" width="0"></iframe><iframe src="https://cegeptr-empl.omnivox.ca/empl/net/infosgenerales/SupprimerCookies.aspx?C=TRV&E=P&L=FRA&Ref=20181217141707" id="ctl00_cntFormulaire_ifQuitterEmpl" class="ifQuitter" height="0" width="0"></iframe><iframe src="https://cegeptr-servicesfinances.omnivox.ca/Account/LogOff?act=Omnivox&C=TRV&E=P&L=FRA&Ref=20181217141707" id="ctl00_cntFormulaire_ifQuitterClaraFin" class="ifQuitter" height="0" width="0"></iframe>
+
+					</div>
+				</td>
+			</tr>
+		</table>
+		
+</td></tr><tr><td class="footerPart"><div class="footerPosi">
+
+<style type="text/css">
+*{padding:0;margin:0;}
+p{margin: 1em 0;}
+html,body{height:100%;width:100%;}
+body{background:#ededed none repeat-x top center;}
+.wrapperFixed{margin:0 auto;}
+.wrapper{}
+.contenuIntraflex{background-color:white}
+#ovx10_head{background:#fff url(/intr/UI/Themes/Intraflex_v10_TRV/images/bg_base_pattern.jpg) repeat-x top right;}
+#ovx10_head_draw{background:transparent url(/intr/UI/Themes/Intraflex_v10_TRV/images/in_rp_2.png) no-repeat -10px center;}
+#ovx10_head_grass{background:transparent url(/intr/UI/Themes/Intraflex_v10_TRV/images/in_rp_1.png) repeat-x bottom right;height:215px}
+#ovx10_user{font-weight:bold;color:#fff;cursor:default;text-shadow:1px 1px 3px #2F3B05;position:absolute;top:-27px;left:5px;}
+#ovx10_head_subtitle{position:absolute;top:58px;left:18px;z-index:300;font-weight:bold;color:#4c6874;border-top:3px solid #8ac931;}
+#ovx10_head_env{text-transform:uppercase;font-face:arial;font-weight:bold;font-size:28px;color:#b10808;position:absolute;top:24px;left:190px;cursor:default}
+#ovx10_head_sub{height:37px;background:transparent url('/intr/UI/Themes/Intraflex_v10_TRV/images/log5c.png') repeat-x bottom center;}
+.ovx10_rel{position:relative;}
+/* generics */
+a img{border:0}
+a:hover{color:#b70404}
+ul,ol{margin:5px 5px 5px 30px}
+#spLeftSize{padding-top:40px;width:375px;}
+#midColPartWrap{padding-top:14px}
+#divrepld{padding-right:2px;position:relative;top:-32px;}
+#mainPartWrap{width:100%}
+#liensDroite a{font-weight:bold;color:#fff;text-shadow:1px 1px 3px #2F3B05;}
+#liensDroite a:hover{color:#b70404;text-shadow:1px 1px 1px #fff;}
+.spacer_b{margin:0 auto}
+.ovx10_offreServices{list-style-type:none;margin:0;}
+.ovx10_offreServices li{background:transparent url('/images/General/ovx10_menu_puce.jpg') no-repeat 0px 8px;padding-left:15px;display:block;margin:0 0 0 10px}
+.ovx10_offreServices li.ovx_sep{background-image:none;border-top:1px solid #e8eff4;margin:0;}
+.ovx10_offreServices li.ovx10_ovxTop{background:transparent url('/intr/UI/Themes/Intraflex_v10_TRV/images/pp_ovx.jpg') no-repeat 0px 8px;}
+.ovx10_offreServices li.ovx10_sub{background:transparent url('/intr/UI/Themes/Intraflex_v10_TRV/images/pp_sub.jpg') no-repeat 0px 8px;}
+.ovx10_offreServices li a{display:block;margin:0 0 7px 0;padding:3px 1px;font-family:arial}
+span.ovx10_lienService{font-weight:bold;color:#000}
+span.ovx10_descLienService{display:block;font-size:10px;}
+.ovx10_offreServices li a:hover span.ovx10_lienService,.ovx10_offreServices li a:hover span.ovx10_descLienService{color:#b70404}
+.MessagesCommuniques .msgSeparateur{background-image:none;border-bottom:1px solid #f2f2f2}
+/* webpart headings */
+.ovx10_headerPart{margin:0 0 10px 0;font-size:21px;font-family:'Trebuchet MS','Myriad Pro','Helvetica',arial;font-weight:bold;color:#fff;background:transparent url('/intr/UI/Themes/Intraflex_v10_TRV/images/bar_blue_3.png') repeat-x top left}
+.ovx10_headerPart span{display:block;background:transparent url('/intr/UI/Themes/Intraflex_v10_TRV/images/bar_blue_2.png') no-repeat top right}
+.ovx10_headerPart span span{padding:5px 0 7px 10px;background:transparent url('/intr/UI/Themes/Intraflex_v10_TRV/images/bar_blue_1.png') no-repeat top left;text-shadow:1px 1px 5px #000;}
+#ovx10_header_offreServices{color:#fff;background:transparent url('/intr/UI/Themes/Intraflex_v10_TRV/images/bar_orange_3.png') repeat-x top left}
+#ovx10_header_offreServices span{background:transparent url('/intr/UI/Themes/Intraflex_v10_TRV/images/bar_orange_2.png') no-repeat top right}
+#ovx10_header_offreServices span span{background:transparent url('/intr/UI/Themes/Intraflex_v10_TRV/images/bar_orange_1.png') no-repeat top left;text-shadow:1px 1px 5px #000;}
+#ovx10_header_comm{color:#fff;background:transparent url('/intr/UI/Themes/Intraflex_v10_TRV/images/bar_orange_3.png') repeat-x top left}
+#ovx10_header_comm span{background:transparent url('/intr/UI/Themes/Intraflex_v10_TRV/images/bar_orange_2.png') no-repeat top right}
+#ovx10_header_comm span span{background:transparent url('/intr/UI/Themes/Intraflex_v10_TRV/images/bar_orange_1.png') no-repeat top left;text-shadow:1px 1px 5px #000;}
+a.hlkConfig{margin:6px 25px 0 0;color:#fff}
+#ovx10_header_QDN{color:#d7202d;margin:0}
+#spRightSize{padding:0 10px 0 0}
+#ovx10_header_actualites{color:#0e3989}
+.footerPosi{position:relative;overflow:hidden}
+#ovx10_footer_copyright{color:#fff;font-size:10px;background:transparent url('/intr/UI/Themes/Intraflex_v10_TRV/images/log5c.png') repeat-x top center;font-family:'Trebuchet MS','Myriad Pro','Helvetica',arial;pointer:default;height:108px;}
+#ovx10_copyright_logo{padding:30px 0 0 22px}
+#inner-foot{padding:10px 0 0 0;}
+#inner-foot img{float:left;padding:0 4px 0 0}
+#inner-foot span{display:block;float:right;padding:8px;font-size:12px}
+#ovx10_wrap_offreServices{padding:0 0 0 12px;width:320px;margin:0 40px 0 0;}
+#ovx10_wrap_QDN,#ovx10_wrap_calendrier,#ovx10_wrap_actualites{margin:0 30px 0 0;}
+#ovx10_wrap_calendrier,#ovx10_wrap_actualites{margin-bottom:30px}
+#ovx10_wrap_comm{margin:30px 40px 0 0;padding:0 0 70px 12px;width:320px;}
+#ovx10_header_meteo{background:url("/images/FRA/General/ovx10_part_meteo.jpg") no-repeat scroll left top transparent;height:51px;padding:0;text-indent:-9000px;}
+#ovx10_header_favoris{background:url("/images/FRA/General/ovx10_part_favoris.jpg") no-repeat scroll left top transparent;height:51px;padding:0;text-indent:-9000px;}
+#ovx10_header_favoris br{text-indent:-9000px}
+#ovx10_header_form{text-indent:-9000px;background:transparent url('/images/FRA/General/ovx10_part_form.jpg') no-repeat top left;height:51px;padding:0;}
+.ovx10_cSpcr{padding:0 0 10px 5px;}
+.ovx10_cSpcr2{padding:0 0 40px 15px;}
+/* QDN */
+.QuoiDeNeuf .Savq, .QuoiDeNeuf .SavqNoLink{border:1px solid white;padding:10px 0 5px 10px;border-bottom:1px solid #ebede7;}
+.QuoiDeNeuf .evenQdn{background-color:#fbfbfb;border-bottom:1px solid #ebede7}
+.QuoiDeNeuf .overQdn{background-color:#f7fced;}
+.QuoiDeNeuf .overQdn a,.QuoiDeNeuf .overQdn .DescriptionQDN{color:#b70404}
+.Savq .DescriptionQDN{cursor:pointer}
+.TitreQDN{font-size:12px;}
+/* calendrier */
+.CalendrierScolaire .calJourSemaine{background-color:#6e676c}
+.CalendrierScolaire .calDivPrincipal{border:1px dashed #f5f5f5}
+.CalendrierScolaire .calNomMois{font-size:16px;color:#777;font-family:'Trebuchet MS','Myriad Pro','Helvetica',arial;}
+.evenementCommunaute_titre img{display:none}
+.evenementCommunaute_titre{height:20px;}
+.CalendrierScolaire .calLienMoisPrecedentSuivant{text-indent:9000px;overflow:hidden;display:block;width:23px;height:19px;background:transparent none no-repeat top left;}
+.CalendrierScolaire .calTdMoisPrecedent .calLienMoisPrecedentSuivant{background-image:url('/intr/UI/Themes/Intraflex_v10_TRV/images/bg_cal_prec.jpg')}
+.CalendrierScolaire .calTdMoisSuivant .calLienMoisPrecedentSuivant{background-image:url('/intr/UI/Themes/Intraflex_v10_TRV/images/bg_cal_suiv.jpg')}
+.ovx10_tblCalDates{margin-left:0px}
+.CalendrierScolaire .calNomMois{padding:0;}
+.CalendrierScolaire .calTdMoisPrecedent,.CalendrierScolaire .calTdMoisSuivant{padding:3px 0 0 0;}
+.CalendrierScolaire .calJourOver{background-color:#dfefff;cursor:default;}
+.ovx10_nOver{background-color:#fcf8ed}
+.ovx10_offreServices li.ovx_sepClass{color:#3784ba}
+.LienSiteWebIntra_tab{width:100%}
+</style><script type="text/javascript">
+function DoAfterQDNLoad()
+{
+$("#ovx10_wrap_QDN .Savq:even").addClass("evenQdn");
+$("#ovx10_wrap_QDN .Savq").hover(function(){$(this).toggleClass("overQdn");},function(){$(this).toggleClass("overQdn");});
+$("#ovx10_wrap_QDN .Savq > .DescriptionQDN").each(
+function(i,e)
+{
+$(e).click(
+function()
+{
+//Annie: 2011-08-23 - [B30290] - en IE, le href retourne le http://vaniercollege.omnivox.ca/.... donc, on doit prendre l'adresse tel quel.
+ if ($("#ovx10_wrap_QDN .Savq > .DescriptionQDN a").eq(i).attr("href").indexOf("http:") != -1 || $("#ovx10_wrap_QDN .Savq > .DescriptionQDN a").eq(i).attr("href").indexOf("https:") != -1)
+ window.location = $("#ovx10_wrap_QDN .Savq > .DescriptionQDN a").eq(i).attr("href");
+else
+ window.location = window.location.protocol + "//" + window.location.host + $("#ovx10_wrap_QDN .Savq > .DescriptionQDN a").eq(i).attr("href");}
+);}
+);}
+document.addEventListener("DOMContentLoaded",
+function()
+{
+checkFooterWidth();
+$(window).resize(function (){ checkFooterWidth(); });
+$(".calDivPrincipal table:eq(1)").addClass("ovx10_tblCalDates").attr("id","ovx10_tblCalDatesList");
+$(".calJour","#ovx10_wrap_calendrier").hover(function()
+{
+$(this).toggleClass("calJourOver");},function(){
+$(this).toggleClass("calJourOver");});
+$("#ovx10_wrap_calendrier .evenementCommunaute").each(
+function(i,e)
+{
+$("td:eq(4)",e).addClass("ovx10_cSpcr");}
+);}
+);
+function checkFooterWidth()
+{
+if(typeof(getWidth)=="function")
+{
+var footw=getWidth();
+if(footw > maxWidth) {
+$("#inner-foot").width(maxWidth).css("margin","0 auto");}
+else
+{
+$("#inner-foot").width("100%").css("margin","0");}
+}
+}
+</script>
+
+</div></td></tr></table><div class="sMasterWrapper"></div><div id="ovx10_footer_copyright"><div id="inner-foot"><img src="/intr/UI/Themes/Intraflex_v10_TRV/images/logo.png" alt="" /><span>Technologie Omnivox - &copy; Skytech Communications</span></div></div>
+
+		</form>
+	
+
+    <script type="text/javascript" src="/content/partage/javascript/Skytech.Header.min.js"></script>
+</body>
+</html>

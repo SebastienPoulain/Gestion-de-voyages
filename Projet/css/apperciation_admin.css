@@ -1,0 +1,30 @@
+.headTxt{
+float: left;
+}
+
+.midSectAppreciation{
+    margin-top: 15vh;
+    border-radius: 60px;
+    margin-left: 15vw;
+    background-color: white;
+}
+
+.centerText{
+    text-align: center;
+}
+
+#btRetour{
+    transform:translate(4vw,5.5vh);
+    position: absolute;
+  }
+
+  #save{
+      float: right;
+      margin-right: 10vw;
+  }
+  h2{
+      color:white;
+  }
+  h3{
+      color:white;
+  }

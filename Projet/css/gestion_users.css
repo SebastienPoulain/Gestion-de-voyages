@@ -1,0 +1,35 @@
+.BTreset, .BTsuppr {
+  margin-right: 1vw;
+}
+
+.BTactivate {
+  margin-right: 1vw;
+  background-color: green;
+}
+
+.midSection {
+  width: 70vw;
+  height: 85vh;
+  margin-top: 5vh;
+  margin-left: 15vw;
+}
+
+.btAffichage {
+  color: white;
+  background-color: #27282b;
+}
+
+.btSelectAffichage {
+  color: white;
+  background-color: #696969;
+}
+
+#btRetour {
+  position: absolute;
+  transform: translate(4vw, 5.5vh);
+}
+
+.btn2 {
+  color: black !important;
+  background-image: linear-gradient(110deg, #c8daea 30%, #1e81fa);
+}

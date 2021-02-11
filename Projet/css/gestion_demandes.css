@@ -1,0 +1,40 @@
+.BTacccept, .BTview, .BTraisonrefuse, .BTrefuse {
+  margin-right: 1vw;
+}
+
+.midSection {
+  width: 70vw;
+  height: 85vh;
+  margin-top: 5vh;
+  margin-left: 15vw;
+}
+
+#btRetour {
+  position: absolute;
+  transform: translate(4vw, 5.5vh);
+}
+
+#btCreerDemande {
+  font-weight: bold;
+}
+
+table {
+  margin-left: unset;
+  table-layout: unset;
+}
+
+p {
+  color: black;
+}
+
+#tblDemandes_paginate>a, span {
+  color: white ;
+}
+
+.paginate_button current {
+  color: black !important;
+}
+
+.paginate_button {
+  color: white !important;
+}

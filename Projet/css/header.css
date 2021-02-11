@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+
+#logo{
+  height: 9vh;
+  width: 45vw;
+}
+
+#projetTitle{
+  position: absolute;
+  color: white;
+  top: 2vh;
+  font-size:3vh;
+}
+
+#hello{
+  position: absolute;
+  color: white;
+  right: 7vw;
+  top: 1vh;
+}
+
+#btDeconnexion {
+  float: right;
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  height: 4vh;
+  width: 10vw;
+  font-size: 0.8vw;
+  text-align: center;
+}
+
+header{
+  height:10vh;
+  background-color: #07245c;
+}
+
+.fa-sign-out{
+  display: block !important;
+}

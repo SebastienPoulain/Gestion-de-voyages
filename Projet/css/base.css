@@ -1,0 +1,137 @@
+.contain {
+  align-content: center;
+  width: 35vw;
+  min-width: 250px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 1vh;
+  border: solid #000000;
+  border-radius: 60px;
+  background-image: linear-gradient(110deg, #17478A 30%, #07245c);
+  -webkit-box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.55);
+  -moz-box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.55);
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.55);
+}
+
+.btn2 {
+  color: black !important;
+  background-image: linear-gradient(110deg, #c8daea 30%, #1e81fa);
+}
+
+#btConnexion {
+  float: right;
+  width: 42%;
+  height: 30px;
+  text-align: center;
+  line-height: 10px;
+}
+
+div {
+  color: black;
+  font-weight: bold;
+}
+
+p {
+  color: black;
+}
+
+a:hover {
+  color: white;
+}
+
+body {
+  background: url("../img/img6.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+  height: 10vh;
+  background-color: #07245c;
+}
+
+.container {
+  margin-top: 18vh;
+  padding: 1%;
+}
+
+tdA {
+  display: inline-block;
+  width: 35vw;
+  height: 29.8vh;
+}
+
+#tableA {
+  margin-left: 15vw;
+  table-layout: fixed;
+}
+
+.sectionA {
+  display: inline-block;
+  width: 35vw;
+  height: 29.8vh;
+  padding: 6px 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  border-radius: 10px;
+  border-radius: 6px;
+  background-color: darkgray;
+  background-image: linear-gradient(110deg, #c8daea 30%, #1e81fa);
+  box-shadow: 0 1px 2px #5e5d5b;
+  box-shadow: inset 0px 1px 0px 0px #8c8c8c;
+  text-shadow: 0px 1px 0px #1c1c1c;
+  font-family: Arial;
+  font-size: 5vh;
+  font-weight: bold;
+}
+
+.sectionA span {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.sectionA span:after {
+  position: absolute;
+  top: 0;
+  right: -6vw;
+  content: '\00bb';
+  transition: 0.5s;
+  opacity: 0;
+}
+
+.sectionA:hover span {
+  padding-right: 25px;
+}
+
+.sectionA:hover span:after {
+  right: -3vw;
+  opacity: 1;
+}
+
+.iconSection {
+  height: 10vh;
+}
+
+h1 {
+  color: black;
+}
+
+label {
+  color: black;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+a {
+  color: black;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+td, th {
+  text-align: center !important;
+}
